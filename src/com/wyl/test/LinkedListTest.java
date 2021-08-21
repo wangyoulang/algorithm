@@ -3,8 +3,6 @@ package com.wyl.test;
 import org.junit.Test;
 
 import java.util.LinkedList;
-import java.util.List;
-
 public class LinkedListTest {
     @Test
     public void testOfLinkedList(){
