@@ -12,6 +12,7 @@ public class Bishi8_13 {
         while(scan.hasNextLine()){
             input.add(scan.nextLine());
         }
+
     }
     public void printFun(List<String> param,Integer num){
         Map<String,Integer> characterMap = new HashMap<>();
