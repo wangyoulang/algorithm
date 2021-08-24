@@ -3,8 +3,8 @@ package com.bishi.wangyi;
 import java.util.Scanner;
 
 public class wy_02 {
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+   public static void main(String[] args) {
+      /*Scanner scan = new Scanner(System.in);
         String ms = scan.nextLine();
         String[] mes = ms.split(",");
         int n = Integer.valueOf(mes[0]);
@@ -14,8 +14,9 @@ public class wy_02 {
         for(int i = 0;i < L.length;i ++){
             L[i] = (char)(i + 97);
         }
-        String result = recursion(L,n);
-        System.out.println(result.charAt(k - 1));
+        String result = recursion(L,n);*//*
+        System.out.println(result.charAt(k - 1));*/
+       System.out.println(Math.pow(2,31));
     }
     public static String recursion(char[] L,int n){
         if(n <= 1){
