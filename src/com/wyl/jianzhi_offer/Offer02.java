@@ -1,6 +1,5 @@
 package com.wyl.jianzhi_offer;
 
-import java.util.Map;
 
 /**
  * @author shkstart
@@ -8,7 +7,7 @@ import java.util.Map;
  */
 public class Offer02 {
     public static void main(String[] args) {
-        String a = "11",b = "101";
+        String a = "1010",b = "1011";
         System.out.println(addBinary(a,b));
     }
     private static int f = 0;
