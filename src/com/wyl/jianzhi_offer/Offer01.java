@@ -1,6 +1,5 @@
 package com.wyl.jianzhi_offer;
 
-import com.sun.org.apache.xpath.internal.operations.Div;
 
 /**
  * @author shkstart
@@ -8,8 +7,8 @@ import com.sun.org.apache.xpath.internal.operations.Div;
  */
 public class Offer01 {
     public static void main(String[] args) {
-//        int result = divide(0x80000000,1);
-        int a = 1;
+        int a = 3;
+        a = a & 1;
         char b = (char)(a + '0');
         System.out.println(b);
     }

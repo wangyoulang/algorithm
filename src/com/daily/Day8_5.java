@@ -1,4 +1,4 @@
-package com.wyl.daily;
+package com.daily;
 
 import java.util.ArrayList;
 import java.util.List;

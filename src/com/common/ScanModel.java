@@ -6,13 +6,13 @@ import java.util.Scanner;
 
 public class ScanModel {
     public static void main(String[] args) {
-        Scanner scan1 = new Scanner(System.in);
-        String ms = scan1.nextLine();
-        Map<Integer,Integer> map = new HashMap<>();
-        String[] news = ms.split(",");
-        int b = Integer.valueOf(news[0]);
-        System.out.println();
-
+        System.out.println(2^3);
+//        Scanner scan1 = new Scanner(System.in);
+//        String ms = scan1.nextLine();
+//        Map<Integer,Integer> map = new HashMap<>();
+//        String[] news = ms.split(",");
+//        int b = Integer.valueOf(news[0]);
+//        System.out.println();
 
 //        Scanner scan2 = new Scanner(System.in);
 //        String mss = scan2.nextLine();

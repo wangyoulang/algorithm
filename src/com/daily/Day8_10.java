@@ -1,4 +1,4 @@
-package com.wyl.daily;
+package com.daily;
 
 /**
  * 413.等差数列划分

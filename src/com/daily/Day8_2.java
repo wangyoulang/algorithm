@@ -1,6 +1,4 @@
-package com.wyl.daily;
-
-import javax.sound.midi.Soundbank;
+package com.daily;
 
 /**
  * 743.网络延迟问题

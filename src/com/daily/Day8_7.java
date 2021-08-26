@@ -1,4 +1,4 @@
-package com.wyl.daily;
+package com.daily;
 
 public class Day8_7 {
     public static boolean circularArrayLoop(int[] nums) {

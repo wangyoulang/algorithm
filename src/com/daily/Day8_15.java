@@ -1,4 +1,4 @@
-package com.wyl.daily;
+package com.daily;
 
 /**
  * 576.出界的数路径

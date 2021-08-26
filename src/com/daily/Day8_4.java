@@ -1,6 +1,4 @@
-package com.wyl.daily;
-
-import javafx.scene.shape.TriangleMesh;
+package com.daily;
 
 import java.util.Arrays;
 
