@@ -1,4 +1,4 @@
-package com.wyl.jianzhi_offer;
+package com.jianzhi_offer;
 
 public class Fibonacci_10_1 {
     public int fib(int n) {

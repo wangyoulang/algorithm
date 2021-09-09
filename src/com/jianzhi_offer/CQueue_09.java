@@ -1,4 +1,4 @@
-package com.wyl.jianzhi_offer;
+package com.jianzhi_offer;
 
 import java.util.LinkedList;
 
